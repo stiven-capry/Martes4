@@ -4,11 +4,27 @@ namespace ejemploDos
 {
     class Vehiculo
     {
-        //Propiedades
+        //Propiedades ( modificador de acceso privado o publico)
+
+        /*Modificador de acceso 
+        public: la propiedad o metodo se pueden utilizar en cualquier parte 
+        private: la pripiedad o metodo solo se puede utilizar en la misma clase
+        protected: la pripiedad o metodo solo se puede utilizar en las clases  que heredan de la class padre donde estan las propiedades o metodos
+        
+        */
+        
         public string Marca { get; set; }
+
         public string Serie { get; set; }
 
         //Ej concatenar propiedades (Marca y Serie)
+        public string MarcaSerie 
+        { 
+            get 
+            {
+                return $"Vehiculo tipo {Marca} serie {Serie}";
+            }
+        }
 
         short modelo;
         public short Modelo { 
@@ -49,6 +65,7 @@ namespace ejemploDos
             }
         }
 
+        protected string Ruta { get; set; }
 
         //Metodos
         public void prender()
