@@ -1,0 +1,26 @@
+C:\xampp\htdocs\Martes. L.de P\ejemploDos\bin\Debug\netcoreapp3.1\ejemploDos.exe
+C:\xampp\htdocs\Martes. L.de P\ejemploDos\bin\Debug\netcoreapp3.1\ejemploDos.deps.json
+C:\xampp\htdocs\Martes. L.de P\ejemploDos\bin\Debug\netcoreapp3.1\ejemploDos.runtimeconfig.json
+C:\xampp\htdocs\Martes. L.de P\ejemploDos\bin\Debug\netcoreapp3.1\ejemploDos.runtimeconfig.dev.json
+C:\xampp\htdocs\Martes. L.de P\ejemploDos\bin\Debug\netcoreapp3.1\ejemploDos.dll
+C:\xampp\htdocs\Martes. L.de P\ejemploDos\bin\Debug\netcoreapp3.1\ejemploDos.pdb
+C:\xampp\htdocs\Martes. L.de P\ejemploDos\obj\Debug\netcoreapp3.1\ejemploDos.csprojAssemblyReference.cache
+C:\xampp\htdocs\Martes. L.de P\ejemploDos\obj\Debug\netcoreapp3.1\ejemploDos.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Martes. L.de P\ejemploDos\obj\Debug\netcoreapp3.1\ejemploDos.AssemblyInfo.cs
+C:\xampp\htdocs\Martes. L.de P\ejemploDos\obj\Debug\netcoreapp3.1\ejemploDos.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Martes. L.de P\ejemploDos\obj\Debug\netcoreapp3.1\ejemploDos.dll
+C:\xampp\htdocs\Martes. L.de P\ejemploDos\obj\Debug\netcoreapp3.1\ejemploDos.pdb
+C:\xampp\htdocs\Martes. L.de P\ejemploDos\obj\Debug\netcoreapp3.1\ejemploDos.genruntimeconfig.cache
+C:\xampp\htdocs\Martes4\ejemploDos\obj\Debug\netcoreapp3.1\ejemploDos.csprojAssemblyReference.cache
+C:\xampp\htdocs\Martes4\ejemploDos\obj\Debug\netcoreapp3.1\ejemploDos.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Martes4\ejemploDos\obj\Debug\netcoreapp3.1\ejemploDos.AssemblyInfo.cs
+C:\xampp\htdocs\Martes4\ejemploDos\obj\Debug\netcoreapp3.1\ejemploDos.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Martes4\ejemploDos\obj\Debug\netcoreapp3.1\ejemploDos.dll
+C:\xampp\htdocs\Martes4\ejemploDos\obj\Debug\netcoreapp3.1\ejemploDos.pdb
+C:\xampp\htdocs\Martes4\ejemploDos\bin\Debug\netcoreapp3.1\ejemploDos.exe
+C:\xampp\htdocs\Martes4\ejemploDos\bin\Debug\netcoreapp3.1\ejemploDos.deps.json
+C:\xampp\htdocs\Martes4\ejemploDos\bin\Debug\netcoreapp3.1\ejemploDos.runtimeconfig.json
+C:\xampp\htdocs\Martes4\ejemploDos\bin\Debug\netcoreapp3.1\ejemploDos.runtimeconfig.dev.json
+C:\xampp\htdocs\Martes4\ejemploDos\bin\Debug\netcoreapp3.1\ejemploDos.dll
+C:\xampp\htdocs\Martes4\ejemploDos\bin\Debug\netcoreapp3.1\ejemploDos.pdb
+C:\xampp\htdocs\Martes4\ejemploDos\obj\Debug\netcoreapp3.1\ejemploDos.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\xampp\htdocs\Martes. L.de P\oneIntro\bin\Debug\netcoreapp3.1\oneIntro.exe
+C:\xampp\htdocs\Martes. L.de P\oneIntro\bin\Debug\netcoreapp3.1\oneIntro.deps.json
+C:\xampp\htdocs\Martes. L.de P\oneIntro\bin\Debug\netcoreapp3.1\oneIntro.runtimeconfig.json
+C:\xampp\htdocs\Martes. L.de P\oneIntro\bin\Debug\netcoreapp3.1\oneIntro.runtimeconfig.dev.json
+C:\xampp\htdocs\Martes. L.de P\oneIntro\bin\Debug\netcoreapp3.1\oneIntro.dll
+C:\xampp\htdocs\Martes. L.de P\oneIntro\bin\Debug\netcoreapp3.1\oneIntro.pdb
+C:\xampp\htdocs\Martes. L.de P\oneIntro\obj\Debug\netcoreapp3.1\oneIntro.csprojAssemblyReference.cache
+C:\xampp\htdocs\Martes. L.de P\oneIntro\obj\Debug\netcoreapp3.1\oneIntro.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Martes. L.de P\oneIntro\obj\Debug\netcoreapp3.1\oneIntro.AssemblyInfo.cs
+C:\xampp\htdocs\Martes. L.de P\oneIntro\obj\Debug\netcoreapp3.1\oneIntro.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Martes. L.de P\oneIntro\obj\Debug\netcoreapp3.1\oneIntro.dll
+C:\xampp\htdocs\Martes. L.de P\oneIntro\obj\Debug\netcoreapp3.1\oneIntro.pdb
+C:\xampp\htdocs\Martes. L.de P\oneIntro\obj\Debug\netcoreapp3.1\oneIntro.genruntimeconfig.cache
